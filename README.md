@@ -10,4 +10,5 @@ Planned experiments:
  - Engineering of new features
  - Predictive models (race wins, etc.)
 
-Dan Dascalescu
+#
+[Dan Dascalescu](https://github.com/ddascalescu)
