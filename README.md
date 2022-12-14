@@ -9,6 +9,8 @@ Planned experiments:
  - Analysis of which features are most influencial on race wins
  - Engineering of new features
  - Predictive models (race wins, etc.)
+ - Stat calculation/plotting
+   - driver-driver crashes
 
 #
 [Dan Dascalescu](https://github.com/ddascalescu)
