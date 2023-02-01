@@ -1,2 +1,8 @@
 # Batch files for windows
 /.batch/
+
+# Checkpoints
+/files/.ipynb_checkpoints/
+
+# Cache
+/files/.cache/
