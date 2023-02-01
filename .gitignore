@@ -4,5 +4,6 @@
 # Checkpoints
 /files/.ipynb_checkpoints/
 
-# Cache
-/files/.cache/
+# Caches
+/files/.fastf1/
+/files/.kaggle

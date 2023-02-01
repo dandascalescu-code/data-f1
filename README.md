@@ -10,7 +10,11 @@ Planned experiments:
  - Engineering of new features
  - Predictive models (race wins, etc.)
  - Stat calculation/plotting
-   - driver-driver crashes
+   - Driver-driver crashes
+   - Counting overtakes
+   - Pit stops
+     - Average per year
+     - Average per team per year
 
 #
 [Dan Dascalescu](https://github.com/ddascalescu)
